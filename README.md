@@ -25,7 +25,7 @@ Voice agent for restaurant table bookings (e.g., Alderaj Toronto). Handles party
 - "Table for 4 at 8 PM" → Checks availability → Books → Sends confirmation
 
 ## Demo
-Refer to the attached `project_demo.pdf` for Google Calendar events, knowledge base responses, n8n workflow, and call flow.
+Refer to the attached `Restaurant Reservations Voice Agent.pdf` for Google Calendar events, knowledge base responses, n8n workflow, and call flow.
 
 ## License
 MIT
